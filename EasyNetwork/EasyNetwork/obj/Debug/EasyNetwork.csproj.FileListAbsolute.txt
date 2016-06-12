@@ -1,0 +1,5 @@
+c:\users\dave\documents\visual studio 2013\Projects\EasyNetwork\EasyNetwork\bin\Debug\EasyNetwork.dll
+c:\users\dave\documents\visual studio 2013\Projects\EasyNetwork\EasyNetwork\bin\Debug\EasyNetwork.pdb
+c:\users\dave\documents\visual studio 2013\Projects\EasyNetwork\EasyNetwork\obj\Debug\EasyNetwork.csprojResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2013\Projects\EasyNetwork\EasyNetwork\obj\Debug\EasyNetwork.dll
+c:\users\dave\documents\visual studio 2013\Projects\EasyNetwork\EasyNetwork\obj\Debug\EasyNetwork.pdb

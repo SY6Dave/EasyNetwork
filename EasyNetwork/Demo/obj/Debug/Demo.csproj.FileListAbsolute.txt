@@ -1,0 +1,8 @@
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\EasyNetwork\Demo\bin\Debug\Demo.exe.config
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\EasyNetwork\Demo\bin\Debug\Demo.exe
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\EasyNetwork\Demo\bin\Debug\Demo.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\EasyNetwork\Demo\bin\Debug\EasyNetwork.dll
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\EasyNetwork\Demo\bin\Debug\EasyNetwork.pdb
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\EasyNetwork\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\EasyNetwork\Demo\obj\Debug\Demo.exe
+C:\Users\Dave\Documents\Visual Studio 2013\Projects\EasyNetwork\Demo\obj\Debug\Demo.pdb
